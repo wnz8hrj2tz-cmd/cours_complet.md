@@ -1,6 +1,6 @@
-# APPROFONDISSEMENT NOTION PAR NOTION — Cours sur les Mokhin
+# Rav Benharrouche La kabala de א a ת partie 10
 
-## D'après l'enseignement du Rav Benharrouche (série "La Kabbale de א à ת")
+## Approfondissement notion par notion
 
 *Transcription approfondie, développement kabbalistique et commentaires — Cours sur les Mokhin, les plaies d'Égypte et la Création comme Vide*
 
