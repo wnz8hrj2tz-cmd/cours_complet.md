@@ -14,7 +14,7 @@
 | Boisson soja nature | 1 L | 0,88 EUR |
 | Riz basmati | 1 kg | 1,99 EUR |
 | Pates coquillettes | 500g | 0,75 EUR |
-| Fromage rape | 1 sachet | 3,55 EUR |
+| Emmental rape | 1 sachet | 3,55 EUR |
 | Amandes | 200g | 2,79 EUR |
 | Concombre | 1 piece | 1,00 EUR |
 | Dentifrice | 1 tube | 1,25 EUR |
@@ -51,7 +51,7 @@
 | Boisson soja nature | 0,88 EUR | 0,88 EUR | 0 |
 | Riz | 1,20 EUR | 1,99 EUR | +0,79 EUR |
 | Pates | 0,95 EUR | 0,75 EUR | -0,20 EUR |
-| Fromage rape | 3,00 EUR | 3,55 EUR | +0,55 EUR |
+| Emmental rape | 3,00 EUR | 3,55 EUR | +0,55 EUR |
 | Amandes | 2,50 EUR | 2,79 EUR | +0,29 EUR |
 | Concombre | 0,75 EUR | 1,00 EUR | +0,25 EUR |
 | Dentifrice | 0,95 EUR | 1,25 EUR | +0,30 EUR |
