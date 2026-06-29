@@ -4,7 +4,7 @@
 
 ### Parcours magasins
 
-1. **Aldi** - La majorite de la liste (15 articles)
+1. **Aldi** - La majorite de la liste (18 articles)
 2. **Super U** - Lait de soja + Lentilles blondes + Soja texture
 
 ---
@@ -32,6 +32,8 @@
 | Thon huile d'olive | 2 boites | Aldi | 3,00 EUR |
 | Bananes | ~1 kg | Aldi | 1,55 EUR |
 | Soja texture fin / nature (~300g) | 1 sachet | Super U / Intermarche | 3,00 EUR |
+| Epinards surgeles | 1 kg | Aldi | 1,50 EUR |
+| Haricots verts surgeles | 1 kg | Aldi | 1,50 EUR |
 
 ---
 
@@ -39,15 +41,16 @@
 
 | | Montant |
 |--|---------|
-| **Total estime (sans pommes)** | **37,93 EUR** |
+| **Total estime** | **38,93 EUR** |
 | Budget maximum | 40,00 EUR |
-| **Marge restante** | **2,07 EUR** |
+| **Marge restante** | **1,07 EUR** |
 
 ---
 
 ### Notes
 
-- Les pommes (~1 kg, 1,90 EUR) ont ete retirees pour rester sous 40 EUR
+- Les pommes ont ete retirees pour rester sous 40 EUR et ajouter les legumes surgeles
 - Prix du thon a verifier en rayon (estime a 1,50 EUR/boite MDD Aldi)
 - Le soja texture se trouve au rayon bio de Super U ou Intermarche (marque Grillon d'Or ou equivalent)
 - Format familial du fromage rape (500g) = meilleur prix au kilo que le 200g
+- Flocons d'avoine : version normale ou complete disponible chez Aldi
