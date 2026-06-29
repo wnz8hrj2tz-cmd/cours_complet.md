@@ -11,7 +11,6 @@
 | Lentilles | 500g | 0,89 EUR |
 | Carottes | 820g | 1,39 EUR |
 | Cerneaux de noix | 200g | 2,79 EUR |
-| Lait de soja | 1 L | 0,88 EUR |
 | Boisson soja nature | 1 L | 0,88 EUR |
 | Riz basmati | 1 kg | 1,99 EUR |
 | Pates coquillettes | 500g | 0,75 EUR |
@@ -34,9 +33,9 @@
 
 | | Montant |
 |--|---------|
-| **Total reel** | **41,85 EUR** |
+| **Total reel** | **40,97 EUR** |
 | Budget initial | 40,00 EUR |
-| **Depassement** | **+1,85 EUR** |
+| **Depassement** | **+0,97 EUR** |
 
 ---
 
@@ -49,7 +48,7 @@
 | Lentilles | 0,95 EUR | 0,89 EUR | -0,06 EUR |
 | Carottes | 1,20 EUR | 1,39 EUR | +0,19 EUR |
 | Cerneaux de noix | 2,80 EUR | 2,79 EUR | -0,01 EUR |
-| Lait de soja | 0,88 EUR | 0,88 EUR | 0 |
+| Boisson soja nature | 0,88 EUR | 0,88 EUR | 0 |
 | Riz | 1,20 EUR | 1,99 EUR | +0,79 EUR |
 | Pates | 0,95 EUR | 0,75 EUR | -0,20 EUR |
 | Fromage rape | 3,00 EUR | 3,55 EUR | +0,55 EUR |
@@ -74,7 +73,6 @@
 
 ### Articles ajoutes
 
-- Boisson soja nature 1L (0,88 EUR)
 - Baguette 200g (0,75 EUR)
 - Deodorant homme (1,35 EUR)
 
