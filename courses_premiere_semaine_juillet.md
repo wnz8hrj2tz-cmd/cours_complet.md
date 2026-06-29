@@ -1,39 +1,32 @@
 # Courses de la premiere semaine de juillet
 
-## Liste de courses - Rumilly (74150)
+## Courses realisees - Rumilly (74150)
 
-### Parcours magasins
+### Tableau des courses et prix reels
 
-1. **Aldi** - La majorite de la liste (18 articles)
-2. **Super U** - Lait de soja + Lentilles blondes + Soja texture
-
----
-
-### Tableau des courses et tarifs
-
-| Produit | Quantite | Magasin | Prix estime |
-|---------|----------|---------|-------------|
-| Flocons d'avoine | 1 kg (2x500g ou vrac) | Aldi | 1,70 EUR |
-| Fromage blanc 1 kg | 4 pots | Aldi | 5,40 EUR |
-| Lentilles blondes (500g) | 1 | Super U | 0,95 EUR |
-| Carottes vrac | ~1 kg | Aldi | 1,20 EUR |
-| Noix de cajou / cerneaux de noix (200g) | 1 sachet | Aldi | 2,80 EUR |
-| Lait de soja (1L) | 1 brique | Super U | 0,88 EUR |
-| Riz semi-complet (500g) | 1 paquet | Aldi | 1,20 EUR |
-| Pates semi-completes (500g) | 1 paquet | Aldi | 0,95 EUR |
-| Fromage rape familial (500g) | 1 sachet | Aldi | 3,00 EUR |
-| Amandes (200g) | 1 sachet | Aldi | 2,50 EUR |
-| Graines de chia (200g) | 1 sachet | Aldi | 2,20 EUR |
-| Concombre | 1 piece | Aldi | 0,75 EUR |
-| Dentifrice | 1 tube | Aldi | 0,95 EUR |
-| Oignons | ~500g | Aldi | 0,60 EUR |
-| Petit-suisse (x6) | 1 pack | Aldi | 1,55 EUR |
-| Sardines huile d'olive | 3 boites | Aldi | 3,75 EUR |
-| Thon huile d'olive | 2 boites | Aldi | 3,00 EUR |
-| Bananes | ~1 kg | Aldi | 1,55 EUR |
-| Soja texture fin / nature (~300g) | 1 sachet | Super U / Intermarche | 3,00 EUR |
-| Epinards surgeles | 1 kg | Aldi | 1,50 EUR |
-| Haricots verts surgeles | 1 kg | Aldi | 1,50 EUR |
+| Produit | Quantite | Prix reel |
+|---------|----------|-----------|
+| Flocons d'avoine | 1 kg | 1,58 EUR |
+| Fromage blanc 1 kg | 4 pots | 7,16 EUR |
+| Lentilles | 500g | 0,89 EUR |
+| Carottes | 820g | 1,39 EUR |
+| Cerneaux de noix | 200g | 2,79 EUR |
+| Lait de soja | 1 L | 0,88 EUR |
+| Boisson soja nature | 1 L | 0,88 EUR |
+| Riz basmati | 1 kg | 1,99 EUR |
+| Pates coquillettes | 500g | 0,75 EUR |
+| Fromage rape | 1 sachet | 3,55 EUR |
+| Amandes | 200g | 2,79 EUR |
+| Concombre | 1 piece | 1,00 EUR |
+| Dentifrice | 1 tube | 1,25 EUR |
+| Faisselle | 400g | 3,58 EUR |
+| Sardines huile d'olive | 3 boites | 3,57 EUR |
+| Thon huile d'olive | 2 boites | 4,58 EUR |
+| Bananes | 1 kg | 1,98 EUR |
+| Courgettes surgelees | 1 kg | 1,29 EUR |
+| Haricots verts surgeles | 1 kg | 1,85 EUR |
+| Baguette | 200g | 0,75 EUR |
+| Deodorant homme | 1 | 1,35 EUR |
 
 ---
 
@@ -41,16 +34,53 @@
 
 | | Montant |
 |--|---------|
-| **Total estime** | **38,93 EUR** |
-| Budget maximum | 40,00 EUR |
-| **Marge restante** | **1,07 EUR** |
+| **Total reel** | **41,85 EUR** |
+| Budget initial | 40,00 EUR |
+| **Depassement** | **+1,85 EUR** |
 
 ---
 
-### Notes
+### Comparaison estimations vs prix reels
 
-- Les pommes ont ete retirees pour rester sous 40 EUR et ajouter les legumes surgeles
-- Prix du thon a verifier en rayon (estime a 1,50 EUR/boite MDD Aldi)
-- Le soja texture se trouve au rayon bio de Super U ou Intermarche (marque Grillon d'Or ou equivalent)
-- Format familial du fromage rape (500g) = meilleur prix au kilo que le 200g
-- Flocons d'avoine : version normale ou complete disponible chez Aldi
+| Produit | Estime | Reel | Ecart |
+|---------|--------|------|-------|
+| Flocons d'avoine 1 kg | 1,70 EUR | 1,58 EUR | -0,12 EUR |
+| Fromage blanc x4 | 5,40 EUR | 7,16 EUR | +1,76 EUR |
+| Lentilles | 0,95 EUR | 0,89 EUR | -0,06 EUR |
+| Carottes | 1,20 EUR | 1,39 EUR | +0,19 EUR |
+| Cerneaux de noix | 2,80 EUR | 2,79 EUR | -0,01 EUR |
+| Lait de soja | 0,88 EUR | 0,88 EUR | 0 |
+| Riz | 1,20 EUR | 1,99 EUR | +0,79 EUR |
+| Pates | 0,95 EUR | 0,75 EUR | -0,20 EUR |
+| Fromage rape | 3,00 EUR | 3,55 EUR | +0,55 EUR |
+| Amandes | 2,50 EUR | 2,79 EUR | +0,29 EUR |
+| Concombre | 0,75 EUR | 1,00 EUR | +0,25 EUR |
+| Dentifrice | 0,95 EUR | 1,25 EUR | +0,30 EUR |
+| Faisselle (vs petit-suisse) | 1,55 EUR | 3,58 EUR | +2,03 EUR |
+| Sardines x3 | 3,75 EUR | 3,57 EUR | -0,18 EUR |
+| Thon x2 | 3,00 EUR | 4,58 EUR | +1,58 EUR |
+| Bananes | 1,55 EUR | 1,98 EUR | +0,43 EUR |
+| Courgettes (vs epinards) | 1,50 EUR | 1,29 EUR | -0,21 EUR |
+| Haricots verts surgeles | 1,50 EUR | 1,85 EUR | +0,35 EUR |
+
+---
+
+### Articles non achetes
+
+- Graines de chia (pas trouve)
+- Soja texture (pas besoin)
+- Oignons (pas pris)
+- Pommes (retirees du budget)
+
+### Articles ajoutes
+
+- Boisson soja nature 1L (0,88 EUR)
+- Baguette 200g (0,75 EUR)
+- Deodorant homme (1,35 EUR)
+
+---
+
+### Note pour la semaine prochaine
+
+- Pas besoin de racheter : riz, pates (a confirmer en fin de semaine)
+- Postes les plus chers : fromage blanc (7,16 EUR), thon (4,58 EUR), faisselle (3,58 EUR)
